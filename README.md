@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @duhaesbaert;
-- 👀 I’m interested in getting back to code;
 - 🌱 I’m currently learning more about GoLang and Kubernetes;
+- 🎈 Always looking for a way to learn something new.
 
 <!---
 duhaesbaert/duhaesbaert is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
